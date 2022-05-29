@@ -1,0 +1,24 @@
+{
+    "name": "/tienda-online",
+    "description": "creacion de una tienda online",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vania Paulina amaya Castro",
+            "email": "vaniaamaya10@gmail.com"
+        },
+        {
+            "name": "Montes de Oca Ramos Perla",
+            "email": "181110156@ittlahuac2.du.mx"
+        }
+    ],
+    "require": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "Kawschool\\":"src/"
+        }
+    }
+}
